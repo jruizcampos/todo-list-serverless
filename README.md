@@ -260,3 +260,5 @@ Esto se puede hacer a través de los ajustes en el `serverless.yml`.
 ```
 
 En caso de que esperes mucha fluctuación de tráfico, te recomendamos que consultes esta guía sobre cómo escalar automáticamente el DynamoDB [https://aws.amazon.com/blogs/aws/auto-scale-dynamodb-with-dynamic-dynamodb/](https://aws.amazon.com/blogs/aws/auto-scale-dynamodb-with-dynamic-dynamodb/)
+
+Se incluyó la integración con Checkmarx
